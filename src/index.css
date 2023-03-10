@@ -1,0 +1,249 @@
+
+*
+{
+  font-family: Arial, Helvetica, sans-serif;
+} 
+
+div.webad
+{
+  font-size: 3vh;
+  color: grey;
+  justify-content: center;
+  text-align: center;
+  margin-top: 15%;
+
+}
+div.flexx
+{
+  display: flex;
+  
+}
+nav#memobox
+{
+  border-style: solid;
+  border-width: 1px;
+  border-color: grey;
+  width: 100%;
+}
+p.memobox
+{
+  font-size: small;
+  
+}
+body
+{
+  background-color: whitesmoke;
+}
+h1
+
+
+
+div.lotion-title
+{
+  height: 70px;
+  flex-grow: 9;
+  text-align: center;
+  border-style: none;
+  
+}
+h2.title
+{
+  color: rgb(79, 79, 79);
+  margin-bottom: -6%;
+  margin-top: 10%;
+  font-size: 4vh;
+  text-align: center;
+}
+p.title
+{
+  color: gray;
+  font-size: small;
+  margin-bottom: -1%;
+  
+}
+div.purple
+{
+  margin-top: -1%;
+  margin-inline: -1.5%;
+  background-color: purple;
+  height: 10px;
+}
+nav.top-bar
+{
+  display: flex;
+  flex-direction: row;
+  margin-inline: -1.5%;
+  border-style: solid;
+  border-color: rgb(79, 79, 79);
+  border-top: none;
+}
+button.side-bar-button
+{
+  padding: 1%;
+  flex-shrink: 1;
+  font-size: 3.5vh;
+  color: rgb(79, 79, 79);
+  height: 85px;
+  width: 70px;
+  margin-right: 70vh;
+  background-color: whitesmoke;
+  border-style: none;
+  
+}
+
+button.side-bar-button:hover
+{
+  padding: 1%;
+  flex-shrink: 1;
+  font-size: 3.5vh;
+  color: whitesmoke;
+  height: 85px;
+  width: 70px;
+  margin-right: 70vh;
+  background-color: purple;
+  border-style: none;
+  
+}
+
+
+h2,
+h3
+{
+  margin-top: 1%;
+
+}
+h4,
+h5,
+h6,
+li,
+
+
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+button#plus:hover
+{
+  background-color: purple;
+  color: white;
+}
+button#plus
+{
+  display: inline;
+  background-color: whitesmoke;
+  border-width: 0px;
+  padding: 5%;
+}
+h2.lefttitle
+{
+  display: inline;
+  color: rgb(95, 94, 94);
+}
+
+div#leftTop
+{
+  display: flex;
+  border-style: solid;
+  border-color: rgb(185, 185, 185);
+  border-width: 1px;
+  justify-content: space-between;
+}
+
+div#leftbar
+{
+  background-color: whitesmoke;
+  flex-grow: 2;
+  width: 150px;
+  
+
+}
+div.hidden
+{
+  display: none;
+  background-color: blue;
+}
+
+div.right
+{
+  background-color: whitesmoke;
+  flex-grow: 8;
+}
+
+div.main
+{
+  background-color: blue;
+  display: flex;
+  flex-direction: row;
+  margin-inline: -0.5%;
+}
+
+div.twoinput
+{
+  flex-grow: 18;
+}
+
+button.savebtn:hover
+{
+  background-color: purple;
+  color: whitesmoke;
+}
+
+button.savebtn
+{
+  display: inline;
+  background-color: whitesmoke;
+  border-width: 0px;
+  height: 60px;
+  width: 45px;
+  padding: 5%;
+}
+
+button.delbtn:hover
+{
+  background-color: purple;
+  color: whitesmoke;
+}
+
+button.delbtn
+{
+  display: inline;
+  background-color: whitesmoke;
+  border-width: 0px;
+  height: 60px;
+  width: 45px;
+  padding: 5%;
+}
+input#titleInt
+{
+  display: block;
+  font-size: 3vh;
+}
+div.rtbutton
+{
+  flex-grow: 1;
+  background-color: whitesmoke;
+  text-align: center;
+}
+
+div.righttop
+{
+  display: flex;
+  flex-direction: row;
+}
+
+.noquill
+{
+  display: none;}
+.quill
+{
+  height: 85vh;
+}
+
+div.scroll
+{
+  border-style: solid;
+  border-right: 1px;
+}
+
+
